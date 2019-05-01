@@ -1,0 +1,7 @@
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\ProjectCollections\bin\Debug\ProjectCollections.exe.config
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\ProjectCollections\bin\Debug\ProjectCollections.exe
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\ProjectCollections\bin\Debug\ProjectCollections.pdb
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\ProjectCollections\obj\Debug\ProjectCollections.csprojAssemblyReference.cache
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\ProjectCollections\obj\Debug\ProjectCollections.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\ProjectCollections\obj\Debug\ProjectCollections.exe
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\ProjectCollections\obj\Debug\ProjectCollections.pdb

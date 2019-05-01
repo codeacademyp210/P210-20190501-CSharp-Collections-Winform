@@ -1,0 +1,7 @@
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\Project20190430\bin\Debug\Project20190430.exe.config
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\Project20190430\bin\Debug\Project20190430.exe
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\Project20190430\bin\Debug\Project20190430.pdb
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\Project20190430\obj\Debug\Project20190430.csprojAssemblyReference.cache
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\Project20190430\obj\Debug\Project20190430.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\Project20190430\obj\Debug\Project20190430.exe
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\Project20190430\obj\Debug\Project20190430.pdb

@@ -1,0 +1,10 @@
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\WinformsProject\bin\Debug\WinformsProject.exe.config
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\WinformsProject\bin\Debug\WinformsProject.exe
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\WinformsProject\bin\Debug\WinformsProject.pdb
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\WinformsProject\obj\Debug\WinformsProject.csprojAssemblyReference.cache
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\WinformsProject\obj\Debug\WinformsProject.Form1.resources
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\WinformsProject\obj\Debug\WinformsProject.Properties.Resources.resources
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\WinformsProject\obj\Debug\WinformsProject.csproj.GenerateResource.cache
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\WinformsProject\obj\Debug\WinformsProject.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\WinformsProject\obj\Debug\WinformsProject.exe
+C:\Users\sattar\Desktop\P210\C#\20190501\Solution20190501\WinformsProject\obj\Debug\WinformsProject.pdb
